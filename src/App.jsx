@@ -3,7 +3,7 @@ import './App.css'
 import Header from './components/Header';
 import Navbar from './components/Navbar'
 import About from "./components/About"
-import WhyUs from './components/whyUs';
+import WhyUs from './components/WhyUs';
 import Client from './components/Client';
 import Service from "./components/ServicePlan"
 import Resume from "./components/Resume"

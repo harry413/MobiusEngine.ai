@@ -2,8 +2,8 @@ import React from 'react'
 import { GoArrowUpRight } from "react-icons/go";
 import { FaLinkedinIn } from "react-icons/fa6";
 
-import image from "../assets/profile.svg"
-import image2 from "../assets/profilee.svg"
+import image from "../assets/Profile.svg"
+import image2 from "../assets/Profilee.svg"
 
 const About = () => {
   return (
